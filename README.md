@@ -1,4 +1,4 @@
-# pokedex using framework vue
+# Pokedex - 1ª Geração
 
 ## Project setup
 ```
